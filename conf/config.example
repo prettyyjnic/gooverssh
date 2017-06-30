@@ -11,7 +11,7 @@ sshPrivateKeyPassword = "yourprivatekeypassword"
 [ssh.useInnerJump]
 require = "innser_jump"
 remoteAddress = "cccc.com:3333"
-localPort = "2222222"
+localPort = "22222"
 sshServerAddress = "127.0.0.1:11111"
 sshUser = "yourname"
 sshPassword = "yourpassword"
