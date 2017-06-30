@@ -1,0 +1,6 @@
+.vscode
+debug
+private_key/*
+private_key/*.*
+conf/*.toml
+gooverssh
